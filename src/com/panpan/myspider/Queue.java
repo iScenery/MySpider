@@ -21,7 +21,7 @@ public class Queue {
 	public boolean contains(Object t){
 		return queue.contains(t);
 	}
-	//判断队列是否为空
+	//判断队列是否为空 看看git的输出
 	public boolean empty(){
 		return queue.isEmpty();
 	}
